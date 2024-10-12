@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Rai</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanrai&label=Profile%20views&color=0e75b6&style=flat" alt="amanrai" /> </p>
+<p> </p>
 
 - 🔭 I’m currently working on **Fault Detection and Isolation for Mechatronic Systems**
 
