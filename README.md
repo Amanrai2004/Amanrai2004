@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Fault Detection and Isolation for Mechatronic Systems**
 
-- 🌱 I’m currently learning **OpenCV, Machine Learning, and Advanced Python**
+- 🌱 I’m currently learning **OpenCV, Machine Learning, and Generative AI**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/AmanRai)
 
